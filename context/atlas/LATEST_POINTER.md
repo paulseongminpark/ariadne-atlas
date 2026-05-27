@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-27T09:08:20.5280751Z
-stale_after: 2026-05-27T09:38:20.5280751Z
+generated_at: 2026-05-27T09:10:18.3511526Z
+stale_after: 2026-05-27T09:40:18.3511526Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -61,7 +61,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: ARIADNE_AGENT_WRAPPER_BOOT_CONTEXT_AUTOGENERATE_PHASE2_20260527
+- indexed_latest_run_id: ATLAS_P4_SCHEDULED_PUBLISH
 - indexed_latest_final_report: NONE
 - indexed_latest_report_status: PASS_STRONG
 - indexed_latest_handoff_zip: harness/runs/CAD_IR_BBOX_V02_IDEMPOTENT_STRESS_RERUN_AND_BOUNDED_NEO4J_20260527_CODEX/handoff/CAD_IR_BBOX_V02_IDEMPOTENT_STRESS_RERUN_AND_BOUNDED_NEO4J_20260527_CODEX_handoff.zip
