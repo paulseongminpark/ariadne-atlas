@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-27T09:10:18.3511526Z
-stale_after: 2026-05-27T09:40:18.3511526Z
+generated_at: 2026-05-27T09:25:23.0448319Z
+stale_after: 2026-05-27T09:55:23.0448319Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -27,7 +27,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
 - window_state_generated_at: 2026-05-26T09:45:32.379652+00:00
-- window_state_age: 23.4 hours old
+- window_state_age: 23.7 hours old
 
 ## Public Atlas Raw URLs
 
@@ -48,7 +48,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - pointer_folder: G:\내 드라이브\Ariadne Atlas\00_POINTERS
 - index_folder: G:\내 드라이브\Ariadne Atlas\06_INDEX
 - handoff_archive_folder: G:\내 드라이브\Ariadne Atlas\02_HANDOFFS
-- gdrive_handoff_zip_count: 181
+- gdrive_handoff_zip_count: 185
 - note: GDrive contains bulk evidence. GitHub contains only small pointers and indexes.
 
 ## Latest Scheduled Publication
@@ -61,11 +61,11 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: ATLAS_P4_SCHEDULED_PUBLISH
-- indexed_latest_final_report: NONE
-- indexed_latest_report_status: PASS_STRONG
-- indexed_latest_handoff_zip: harness/runs/CAD_IR_BBOX_V02_IDEMPOTENT_STRESS_RERUN_AND_BOUNDED_NEO4J_20260527_CODEX/handoff/CAD_IR_BBOX_V02_IDEMPOTENT_STRESS_RERUN_AND_BOUNDED_NEO4J_20260527_CODEX_handoff.zip
-- indexed_latest_handoff_name: CAD_IR_BBOX_V02_IDEMPOTENT_STRESS_RERUN_AND_BOUNDED_NEO4J_20260527_CODEX_handoff.zip
+- indexed_latest_run_id: CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX
+- indexed_latest_final_report: harness/runs/CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX/input/prior_evidence/FINAL_REPORT.md
+- indexed_latest_report_status: PASS
+- indexed_latest_handoff_zip: harness/runs/CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX/handoff/CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX_handoff.zip
+- indexed_latest_handoff_name: CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX_handoff.zip
 
 ## Recommended Read Order
 
