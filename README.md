@@ -1,50 +1,26 @@
-# Ariadne Atlas — Public Pointer Layer
+# Ariadne Atlas
 
-**Ariadne Window is the live control surface. Ariadne Atlas is the external knowledge map and evidence index.**
+Ariadne Atlas is the public pointer and index layer for Project Ariadne.
 
-This repository is the **public, pointer/index-only** layer of Ariadne Atlas. It exists so that
-web-based AI clients can read small, stable, AI-readable context and index files over plain
-`raw.githubusercontent.com` URLs **without authentication**.
+## Main Entry
 
-## What this repo is
+Start with [context/atlas/LATEST_POINTER.md](context/atlas/LATEST_POINTER.md), then read [context/atlas/CURRENT_STATE.md](context/atlas/CURRENT_STATE.md).
 
-- A tiny set of Markdown pointers and JSON-Lines indexes describing Ariadne's runs, handoffs,
-  reports, contracts, and Window state.
-- Updated by the Ariadne Atlas publisher (`atlas_publish_github`).
-
-## What this repo is NOT
-
-This repository **does not** contain, and must never contain:
-
-- secrets, tokens, credentials, or `.env` files;
-- handoff zips or any archives (`*.zip`, `*.tar.gz`, `*.7z`);
-- live database files (`*.db`, `*.sqlite`, `*.duckdb`);
-- binaries (`*.exe`, `*.dll`) or CAD/BIM source (`*.3dm`, `*.dwg`, `*.dxf`, `*.gh`);
-- bulk run folders, wholesale logs, or copies of the private orchestration repo.
-
-## Main entry
-
-➡️ **[`context/atlas/LATEST_POINTER.md`](context/atlas/LATEST_POINTER.md)** — start here.
-
-## The three layers
+## Role Split
 
 | Layer | Role | Location |
-|-------|------|----------|
-| **Window** | live control surface | `https://ariadne-window.paulseongminpark.workers.dev/state/current` |
-| **Atlas (GitHub)** | small stable pointer layer (this repo) | `context/atlas/` |
-| **Atlas (Google Drive)** | bulk evidence archive | Google Drive → `Ariadne Atlas` |
+|---|---|---|
+| Ariadne Window | live control surface | https://ariadne-window.paulseongminpark.workers.dev/state/current |
+| Public Atlas | compact pointer/index publication | context/atlas/ |
+| GDrive Atlas | bulk evidence archive | G:\???쒕씪?대툕\Ariadne Atlas |
 
-## Recommended AI read order
+## Public Raw URLs
 
-1. **Ariadne Window** live state — `https://ariadne-window.paulseongminpark.workers.dev/state/current`
-2. **Public Atlas** — `context/atlas/LATEST_POINTER.md`
-3. **Public Atlas** — `context/atlas/CURRENT_STATE.md`
-4. **GDrive Atlas** archive — bulk evidence references (see `context/atlas/*_INDEX.jsonl`)
+- https://raw.githubusercontent.com/paulseongminpark/ariadne-atlas/main/context/atlas/LATEST_POINTER.md
+- https://raw.githubusercontent.com/paulseongminpark/ariadne-atlas/main/context/atlas/CURRENT_STATE.md
+- https://raw.githubusercontent.com/paulseongminpark/ariadne-atlas/main/context/atlas/WINDOW_ENDPOINT.md
+- https://raw.githubusercontent.com/paulseongminpark/ariadne-atlas/main/context/atlas/ATLAS_STATUS.md
 
-## Contents of `context/atlas/`
+## Scope
 
-- `LATEST_POINTER.md`, `CURRENT_STATE.md`, `WINDOW_ENDPOINT.md`, `NEXT_ACTIONS.md`, `ATLAS_STATUS.md`
-- `RUN_INDEX.jsonl`, `HANDOFF_INDEX.jsonl`, `REPORT_INDEX.jsonl`, `CONTRACT_INDEX.jsonl`, `WINDOW_INDEX.jsonl`
-- `GITHUB_POINTER_MANIFEST.jsonl`, `README.md`
-
-Bulk evidence lives in the Google Drive **Ariadne Atlas** folder; this repo only points at it.
+This repo carries compact public routing documents and JSONL indexes. It does not carry handoff archives, live database files, binaries, CAD/BIM files, bulk run folders, or private local payloads.

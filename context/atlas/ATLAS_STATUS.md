@@ -1,40 +1,37 @@
-# Atlas — Status
+# Ariadne Atlas Status
 
-- generator: `atlas-indexer/1.0.0 (P0)`
-- generated_at: 2026-05-27T05:41:01.952546+00:00
-- build_at: 2026-05-27T05:41:02.042731+00:00
-- config tier mode: `yaml`
-- status: **PASS**
+generated_at: 2026-05-27T08:46:37.1571127Z
+stale_after: 2026-05-28T08:46:37.1591988Z
+atlas_version: ATLAS_P3E_PUBLIC_POINTER_QUALITY_2026-05-27
+status: PASS_FOR_PUBLIC_POINTER_UPDATE
 
-## Indexed
+## Layer Status
 
-- total: 4404
-- by tier: `{"TIER_2_SELECTED": 462, "TIER_1_MIRROR": 3942}`
+- Window live fetch: PASS
+- Postgres row projection: LIMITED_CONNECTION_VARIABLES_ABSENT
+- Atlas local indexes: PRESENT
+- GDrive pointer folder: PRESENT
+- GDrive index folder: PRESENT
+- Public GitHub repo: PRESENT
+- Public raw target: pending post-push verification
 
-## Built outputs (rows)
+## Counts
 
-- `RUN_INDEX.jsonl`: 264
-- `HANDOFF_INDEX.jsonl`: 156
-- `REPORT_INDEX.jsonl`: 195
-- `CONTRACT_INDEX.jsonl`: 496
-- `WINDOW_INDEX.jsonl`: 25
+- source_run_rows: 263
+- source_handoff_rows: 156
+- source_report_rows: 194
+- source_contract_rows: 496
+- source_window_rows: 25
+- gdrive_handoff_zips: 153
 
-## Exclude counters (security)
+## Public Filtering
 
-- secret_like_skipped: 274
-- db_raw_skipped: 1662
-- binary_skipped: 1
-- cad_skipped: 6
-- protected_root_skipped: 0
-- vcs_build_skipped: 0
-- read_errors: 0
+- RUN_INDEX.jsonl: source_rows=263, public_rows=263, filtered_rows=0
+- HANDOFF_INDEX.jsonl: source_rows=156, public_rows=156, filtered_rows=0
+- REPORT_INDEX.jsonl: source_rows=194, public_rows=194, filtered_rows=0
+- CONTRACT_INDEX.jsonl: source_rows=496, public_rows=496, filtered_rows=0
+- WINDOW_INDEX.jsonl: source_rows=25, public_rows=25, filtered_rows=0
 
-notes: none
+## Policy
 
-## GDrive Publish (P2) — snapshot
-
-- gdrive publish: **PASS** (2026-05-27)
-- gdrive_atlas_root: `G:\내 드라이브\Ariadne Atlas`
-- copied: 1261 files (~68.4 MB), 153 handoff zips, 0 security violations
-- durable record: `operator/atlas/ATLAS_PUBLISH_STATUS.md`
-- github publish: NOT_IMPLEMENTED_BY_DESIGN (next: ATLAS_P3_GITHUB_POINTER_PUBLISHER)
+Atlas is generated. Window and Ariadne private runtime/control-plane records remain canonical. GitHub carries only compact pointers and public-safe indexes.

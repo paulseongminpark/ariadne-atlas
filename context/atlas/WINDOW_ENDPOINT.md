@@ -1,25 +1,32 @@
-# Atlas — Window Endpoint
+# Ariadne Window Endpoint
 
-**Ariadne Window is the live control surface.** Use it for *what is true now*;
-use Atlas indexes for *what happened and where the evidence is*.
+generated_at: 2026-05-27T08:46:37.1571127Z
+atlas_version: ATLAS_P3E_PUBLIC_POINTER_QUALITY_2026-05-27
 
-## Stable endpoint
+## Stable Endpoint
 
-- **Worker (stable)**: https://ariadne-window.paulseongminpark.workers.dev
-- MCP connector: Claude web connects to the Worker's MCP surface.
+- base: https://ariadne-window.paulseongminpark.workers.dev
+- status: https://ariadne-window.paulseongminpark.workers.dev/status
+- health: https://ariadne-window.paulseongminpark.workers.dev/health
+- current_state: https://ariadne-window.paulseongminpark.workers.dev/state/current
+- mcp: https://ariadne-window.paulseongminpark.workers.dev/mcp
 
-## Ephemeral / local (may change)
+## Live Status Snapshot
 
-- quick tunnel: https://touch-liberal-newsletters-corporations.trycloudflare.com
-- tunnel status: QUICK_TUNNEL_RUNNING
-- local gateway: http://127.0.0.1:8787
-- updated_at: 2026-05-26T18:06:07.8690253+09:00
+- status: ok
+- health: ok
+- service: ariadne-window-workers-dev
+- workers_dev_entrypoint: True
+- remote_mcp_protocol_versions: 2025-03-26, 2025-06-18
 
-## Safety posture (from live state)
+## Public Use
 
-- raw_command_endpoint: `False`
-- raw_sql_endpoint: `False`
-- web_ai_direct_file_mutation: `False`
-- write_surface: `request_only`
-- secret_content_reads: `blocked_by_policy`
-- cad_binary_reads: `metadata_or_skip`
+Read /status, /health, and /state/current first. Use /mcp only through clients that understand the Ariadne Window request-only safety model.
+
+## Safety Snapshot
+
+- raw_command: absent
+- raw_sql: absent
+- direct_file_mutation: absent
+- approval_endpoint: blocked
+- write_surface: request-only
