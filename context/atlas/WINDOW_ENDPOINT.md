@@ -1,6 +1,6 @@
 # Ariadne Window Endpoint
 
-generated_at: 2026-05-27T16:10:16.8708468Z
+generated_at: 2026-05-27T16:25:17.1971726Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 - base: https://ariadne-window.paulseongminpark.workers.dev
