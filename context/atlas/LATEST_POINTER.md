@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-27T10:10:17.0434104Z
-stale_after: 2026-05-27T10:40:17.0434104Z
+generated_at: 2026-05-27T10:25:17.0890368Z
+stale_after: 2026-05-27T10:55:17.0890368Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -27,7 +27,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
 - window_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- window_state_age: 0.6 hours old
+- window_state_age: 0.8 hours old
 
 ## Public Atlas Raw URLs
 
@@ -61,8 +61,8 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX
-- indexed_latest_final_report: harness/runs/CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX/input/prior_evidence/FINAL_REPORT.md
+- indexed_latest_run_id: ATLAS_P2_GDRIVE_PUBLISHER
+- indexed_latest_final_report: harness/runs/ATLAS_P2_GDRIVE_PUBLISHER/FINAL_REPORT.md
 - indexed_latest_report_status: PASS_STRONG
 - indexed_latest_handoff_zip: harness/runs/CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX/handoff/CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX_handoff.zip
 - indexed_latest_handoff_name: CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX_handoff.zip
