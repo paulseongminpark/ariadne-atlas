@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-28T05:10:17.7417503Z
-stale_after: 2026-05-28T05:40:17.7417503Z
+generated_at: 2026-05-28T05:25:20.0797683Z
+stale_after: 2026-05-28T05:55:20.0797683Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -27,7 +27,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
 - window_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- window_state_age: 19.6 hours old
+- window_state_age: 19.9 hours old
 
 ## Public Atlas Raw URLs
 
@@ -61,7 +61,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: interactive_3e843206
+- indexed_latest_run_id: ARIADNE_C8_FALSE_POSITIVE_ACCEPTANCE_POLICY
 - indexed_latest_final_report: NONE
 - indexed_latest_report_status: PASS_STRONG
 - indexed_latest_handoff_zip: harness/runs/ARIADNE_C8_L0_REDACTED_LOCATOR_FOLLOWUP_V2/handoff/ARIADNE_C8_L0_REDACTED_LOCATOR_FOLLOWUP_V2_handoff.zip
