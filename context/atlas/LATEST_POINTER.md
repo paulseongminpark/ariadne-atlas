@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-28T08:10:25.8785660Z
-stale_after: 2026-05-28T08:40:25.8785660Z
+generated_at: 2026-05-28T08:25:18.0710221Z
+stale_after: 2026-05-28T08:55:18.0710221Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -27,7 +27,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
 - window_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- window_state_age: 22.6 hours old
+- window_state_age: 22.8 hours old
 
 ## Public Atlas Raw URLs
 
@@ -61,8 +61,8 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: ARIADNE_C4_DUCKDB_FINALREPORT_PROJECTION_DRIFT
-- indexed_latest_final_report: NONE
+- indexed_latest_run_id: ATLAS_P2_GDRIVE_PUBLISHER
+- indexed_latest_final_report: harness/runs/ATLAS_P2_GDRIVE_PUBLISHER/FINAL_REPORT.md
 - indexed_latest_report_status: PASS_WITH_NOTE
 - indexed_latest_handoff_zip: harness/runs/ARIADNE_C4_DUCKDB_FINALREPORT_PROJECTION_DRIFT/handoff/ARIADNE_C4_DUCKDB_FINALREPORT_PROJECTION_DRIFT_handoff.zip
 - indexed_latest_handoff_name: ARIADNE_C4_DUCKDB_FINALREPORT_PROJECTION_DRIFT_handoff.zip
