@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-05-28T04:55:20.8579185Z
+generated_at: 2026-05-28T05:10:17.7417503Z
 state_freshness: FRESH
-stale_after: 2026-05-28T05:25:20.8579185Z
+stale_after: 2026-05-28T05:40:17.7417503Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -21,7 +21,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - health_status: ok
 - service: ariadne-window-workers-dev
 - current_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- current_state_age: 19.4 hours old
+- current_state_age: 19.6 hours old
 
 ## MCP Status
 
@@ -41,8 +41,8 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 330
-- handoff_index_rows_source: 211
+- run_index_rows_source: 331
+- handoff_index_rows_source: 212
 - report_index_rows_source: 256
 - contract_index_rows_source: 515
 - window_index_rows_source: 26
@@ -52,7 +52,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - gdrive_atlas_root: G:\내 드라이브\Ariadne Atlas
 - pointer_folder_present: True
 - index_folder_present: True
-- handoff_zip_count: 199
+- handoff_zip_count: 200
 - publish_status: SCHEDULED_APPLY_GATED
 
 ## Public GitHub Publish Status
@@ -66,19 +66,20 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
+- `interactive_3e843206` | status=`UNKNOWN` | latest=`2026-05-28T05:00:54.275253+00:00`
+- `ARIADNE_C8_L0_REDACTED_LOCATOR_FOLLOWUP_V2` | status=`UNKNOWN` | latest=`2026-05-28T04:55:12.764915+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-05-28T04:55:03.411556+00:00`
 - `CAD_IR_EXACT_GEOMETRY_REBUILD_TO_090_LOOP_20260527_CODEX` | status=`PASS_STRONG` | latest=`2026-05-28T04:52:55.210856+00:00`
-- `ARIADNE_C8_L0_REDACTED_LOCATOR_FOLLOWUP_V2` | status=`UNKNOWN` | latest=`2026-05-28T04:52:45.862279+00:00`
 - `interactive_3bf56356` | status=`UNKNOWN` | latest=`2026-05-28T04:52:44.005119+00:00`
 - `ARIADNE_RUNTIME_HOOK_V1_12_CLAUDE_PROJECT_SCOPE_INSTALL_P5_20260528` | status=`PASS_WITH_DEGRADED_FEATURES` | latest=`2026-05-28T04:51:59.404745+00:00`
 - `interactive_b103215c` | status=`UNKNOWN` | latest=`2026-05-28T04:49:19.731687+00:00`
 - `interactive_8150af4f` | status=`UNKNOWN` | latest=`2026-05-28T04:49:13.951937+00:00`
 - `ARIADNE_C8_REDACTED_SAMPLE_POLICY_DECISION` | status=`UNKNOWN` | latest=`2026-05-28T04:41:11.213494+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-05-28T04:40:03.246071+00:00`
 - `CAD_IR_FULL_GEOMETRY_SERIALIZATION_AND_REBUILD_V01_20260527_CODEX` | status=`PASS_STRONG` | latest=`2026-05-28T04:35:39.791328+00:00`
-- `ARIADNE_WINDOW_ATLAS_OPERATIONAL_BASELINE_FREEZE` | status=`PASS` | latest=`2026-05-28T04:34:51.799303+00:00`
 
 ## Latest Handoffs
 
+- `ARIADNE_C8_L0_REDACTED_LOCATOR_FOLLOWUP_V2_handoff.zip` | run=`ARIADNE_C8_L0_REDACTED_LOCATOR_FOLLOWUP_V2` | latest=`2026-05-28T04:55:12.764915+00:00`
 - `CAD_IR_EXACT_GEOMETRY_REBUILD_TO_090_LOOP_20260527_CODEX_handoff.zip` | run=`CAD_IR_EXACT_GEOMETRY_REBUILD_TO_090_LOOP_20260527_CODEX` | latest=`2026-05-28T04:52:54.917526+00:00`
 - `ARIADNE_RUNTIME_HOOK_V1_12_CLAUDE_PROJECT_SCOPE_INSTALL_P5_20260528_handoff.zip` | run=`ARIADNE_RUNTIME_HOOK_V1_12_CLAUDE_PROJECT_SCOPE_INSTALL_P5_20260528` | latest=`2026-05-28T04:51:59.404745+00:00`
 - `ARIADNE_C8_REDACTED_SAMPLE_POLICY_DECISION_handoff.zip` | run=`ARIADNE_C8_REDACTED_SAMPLE_POLICY_DECISION` | latest=`2026-05-28T04:41:11.213494+00:00`
@@ -88,7 +89,6 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - `ARIADNE_CONTEXT_REFRESH_AND_RUNTIME_HOOK_CANDIDATE_V1_12_20260528_handoff.zip` | run=`ARIADNE_CONTEXT_REFRESH_AND_RUNTIME_HOOK_CANDIDATE_V1_12_20260528` | latest=`2026-05-28T04:34:03.036587+00:00`
 - `ARIADNE_CHROMA_HEALTHCHECK_PATCH_APPROVAL_REQUIRED_handoff.zip` | run=`ARIADNE_CHROMA_HEALTHCHECK_PATCH_APPROVAL_REQUIRED` | latest=`2026-05-28T04:30:31.324398+00:00`
 - `ARIADNE_DUCKDB_SCHEDULED_RUN_OBSERVATION_handoff.zip` | run=`ARIADNE_DUCKDB_SCHEDULED_RUN_OBSERVATION` | latest=`2026-05-28T04:26:01.904423+00:00`
-- `WINDOW_ATLAS_V3B_WARNING_REPAIR_handoff.zip` | run=`WINDOW_ATLAS_V3B_WARNING_REPAIR` | latest=`2026-05-28T04:19:47.205076+00:00`
 
 ## Latest Reports
 
