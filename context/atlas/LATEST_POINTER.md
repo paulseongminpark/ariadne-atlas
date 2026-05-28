@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-28T05:40:17.6603590Z
-stale_after: 2026-05-28T06:10:17.6603590Z
+generated_at: 2026-05-28T05:55:19.2318266Z
+stale_after: 2026-05-28T06:25:19.2318266Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -27,7 +27,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
 - window_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- window_state_age: 20.1 hours old
+- window_state_age: 20.4 hours old
 
 ## Public Atlas Raw URLs
 
@@ -48,7 +48,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - pointer_folder: G:\내 드라이브\Ariadne Atlas\00_POINTERS
 - index_folder: G:\내 드라이브\Ariadne Atlas\06_INDEX
 - handoff_archive_folder: G:\내 드라이브\Ariadne Atlas\02_HANDOFFS
-- gdrive_handoff_zip_count: 203
+- gdrive_handoff_zip_count: 204
 - note: GDrive contains bulk evidence. GitHub contains only small pointers and indexes.
 
 ## Latest Scheduled Publication
@@ -61,11 +61,11 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: ARIADNE_C8_FALSE_POSITIVE_ACCEPTANCE_POLICY
-- indexed_latest_final_report: NONE
-- indexed_latest_report_status: PASS_WITH_DEGRADED_FEATURES
-- indexed_latest_handoff_zip: harness/runs/ARIADNE_C8_FALSE_POSITIVE_ACCEPTANCE_POLICY/handoff/ARIADNE_C8_FALSE_POSITIVE_ACCEPTANCE_POLICY_handoff.zip
-- indexed_latest_handoff_name: ARIADNE_C8_FALSE_POSITIVE_ACCEPTANCE_POLICY_handoff.zip
+- indexed_latest_run_id: CAD_IR_GOLDEN_REVIEW_BOOTSTRAP_V01_20260527_CODEX
+- indexed_latest_final_report: harness/runs/CAD_IR_GOLDEN_REVIEW_BOOTSTRAP_V01_20260527_CODEX/input/prior_evidence/FINAL_REPORT.md
+- indexed_latest_report_status: PASS_STRONG
+- indexed_latest_handoff_zip: harness/runs/CAD_IR_GOLDEN_REVIEW_BOOTSTRAP_V01_20260527_CODEX/handoff/CAD_IR_GOLDEN_REVIEW_BOOTSTRAP_V01_20260527_CODEX_handoff.zip
+- indexed_latest_handoff_name: CAD_IR_GOLDEN_REVIEW_BOOTSTRAP_V01_20260527_CODEX_handoff.zip
 
 ## Recommended Read Order
 
