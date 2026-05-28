@@ -1,9 +1,9 @@
-{"sha256":"caaba3e47da4d713055cdbfd68872f803b52270aa67d9dfa74537fc3a10aa5fe","file":"LATEST_POINTER.md","size":5000}
-{"sha256":"727091fa3f52c4690caccb51cb4ebe67a4982a7ac66fc6e1444e7227ffa11ec5","file":"CURRENT_STATE.md","size":9116}
-{"sha256":"8d2f67ed3cf2e22dd3d9fa3e0b21518ee2e23dc4d0a37ad86c0541a9c9e365fe","file":"WINDOW_ENDPOINT.md","size":628}
-{"sha256":"44197758851cca86d84393b31a7566686b24a685c823d46fe21f1ec430f38a73","file":"NEXT_ACTIONS.md","size":403}
-{"sha256":"3b058eef2b08094ab6eeec28e8db4695559ad06cbec55c733cb8fdd27b5c653b","file":"ATLAS_STATUS.md","size":808}
-{"sha256":"534e2f5dfa2e5dac08d6f1bcd4b301d902a37d4c3b80e74a3b72232c95cfa409","file":"RUN_INDEX.jsonl","size":183053}
+{"sha256":"1299253a044e8ffa0836d76f31dc87e0431c65656efb165cc90df701dd96f05a","file":"LATEST_POINTER.md","size":4884}
+{"sha256":"2f12e141ed1e725a8f9824c7af435f7c8bdbe7ba5cdb7be82b7d53b05fb71290","file":"CURRENT_STATE.md","size":9116}
+{"sha256":"1e21b903ab208c229dfd2dba21b634923925b2c1142aa7cfe09390a075cdcd4b","file":"WINDOW_ENDPOINT.md","size":628}
+{"sha256":"28079a67cf79f30c9b59c36f4d552d8694d1cca4b2da3227b29d5deb2a67b95f","file":"NEXT_ACTIONS.md","size":403}
+{"sha256":"afcc434d138277cc3c0d400e25194cc8d552264eae75555d36db41c48296fde5","file":"ATLAS_STATUS.md","size":808}
+{"sha256":"65a5c05eeac019533bce49c6bfc0a64b2f08f897d5c121ac679d5b6feb855cb5","file":"RUN_INDEX.jsonl","size":183052}
 {"sha256":"997a5cef834e1a5d78af91029dfb2bc8e6266b023967b9c51d8d6956cb2109bb","file":"HANDOFF_INDEX.jsonl","size":97900}
 {"sha256":"b38b220d3caac54bd07a0c3b6adcbfed2fc42c6f03278db9c973da11e9ec3a69","file":"REPORT_INDEX.jsonl","size":106280}
 {"sha256":"6c7cbd2f56ceeaa8103ce52d0328d1e3c17219d00fdd5af6cf8ad1860bc68b75","file":"CONTRACT_INDEX.jsonl","size":176795}

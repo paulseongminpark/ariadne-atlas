@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-05-28T02:25:19.9531731Z
+generated_at: 2026-05-28T02:40:18.7836648Z
 state_freshness: FRESH
-stale_after: 2026-05-28T02:55:19.9531731Z
+stale_after: 2026-05-28T03:10:18.7836648Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -21,7 +21,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - health_status: ok
 - service: ariadne-window-workers-dev
 - current_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- current_state_age: 16.9 hours old
+- current_state_age: 17.1 hours old
 
 ## MCP Status
 
@@ -66,9 +66,9 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-05-28T02:25:04.065057+00:00`
 - `CAD_IR_STAGE1_STAGE2_REPEATABILITY_SCORING_AUDIT_20260527_CODEX` | status=`PASS_STRONG` | latest=`2026-05-28T02:18:02.791278+00:00`
 - `WINDOW_ATLAS_V3_OPERATIONAL_TRIAL` | status=`PASS_WITH_NOTES` | latest=`2026-05-28T02:14:08.955860+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-05-28T02:10:04.053985+00:00`
 - `ARIADNE_WINDOW_PACKET_INGRESS_DISPATCH_BRIDGE_20260527` | status=`PASS` | latest=`2026-05-28T02:06:39.428351+00:00`
 - `CAD_IR_STAGE1_STAGE2_FULL_AUTORESEARCH_20260527_CODEX` | status=`PASS_STRONG` | latest=`2026-05-27T09:55:31.383514+00:00`
 - `ATLAS_P5_WINDOW_INTEGRATION` | status=`PASS` | latest=`2026-05-27T09:38:07.639447+00:00`
