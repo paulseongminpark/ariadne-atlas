@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-05-28T07:10:18.7319724Z
+generated_at: 2026-05-28T07:25:18.3032693Z
 state_freshness: FRESH
-stale_after: 2026-05-28T07:40:18.7319724Z
+stale_after: 2026-05-28T07:55:18.3032693Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -21,7 +21,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - health_status: ok
 - service: ariadne-window-workers-dev
 - current_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- current_state_age: 21.6 hours old
+- current_state_age: 21.8 hours old
 
 ## MCP Status
 
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 340
+- run_index_rows_source: 341
 - handoff_index_rows_source: 217
 - report_index_rows_source: 262
 - contract_index_rows_source: 515
@@ -66,7 +66,8 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-05-28T06:55:03.452857+00:00`
+- `interactive_6ca1e74b` | status=`UNKNOWN` | latest=`2026-05-28T07:23:25.319853+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-05-28T07:10:03.450508+00:00`
 - `ARIADNE_RUNTIME_HOOK_V1_12_CODEX_PROJECT_SCOPE_INSTALL_P6_20260528` | status=`FAIL` | latest=`2026-05-28T06:02:12.429531+00:00`
 - `CAD_IR_GOLDEN_REVIEW_BOOTSTRAP_V01_20260527_CODEX` | status=`PASS_STRONG` | latest=`2026-05-28T05:50:48.608520+00:00`
 - `ARIADNE_C8_FALSE_POSITIVE_ACCEPTANCE_POLICY` | status=`UNKNOWN` | latest=`2026-05-28T05:37:36.117196+00:00`
@@ -75,7 +76,6 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - `interactive_9b0752e7` | status=`UNKNOWN` | latest=`2026-05-28T05:26:56.938170+00:00`
 - `interactive_651cbfe2` | status=`UNKNOWN` | latest=`2026-05-28T05:23:01.689940+00:00`
 - `interactive_3e843206` | status=`UNKNOWN` | latest=`2026-05-28T05:22:33.893157+00:00`
-- `interactive_9174475d` | status=`UNKNOWN` | latest=`2026-05-28T05:15:09.099769+00:00`
 
 ## Latest Handoffs
 
