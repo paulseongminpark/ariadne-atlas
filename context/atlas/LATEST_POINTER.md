@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-28T02:55:18.7389164Z
-stale_after: 2026-05-28T03:25:18.7389164Z
+generated_at: 2026-05-28T03:10:19.0024049Z
+stale_after: 2026-05-28T03:40:19.0024049Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -27,7 +27,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
 - window_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- window_state_age: 17.4 hours old
+- window_state_age: 17.6 hours old
 
 ## Public Atlas Raw URLs
 
@@ -61,8 +61,8 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: ARIADNE_WINDOW_PACKET_INGRESS_DISPATCH_BRIDGE_20260527
-- indexed_latest_final_report: harness/runs/ARIADNE_WINDOW_PACKET_INGRESS_DISPATCH_BRIDGE_20260527/synthetic_runs/SYN_WINDOW_PACKET_REQUEST_BRIDGE/FINAL_REPORT.md
+- indexed_latest_run_id: ATLAS_P2_GDRIVE_PUBLISHER
+- indexed_latest_final_report: harness/runs/ATLAS_P2_GDRIVE_PUBLISHER/FINAL_REPORT.md
 - indexed_latest_report_status: PASS
 - indexed_latest_handoff_zip: harness/runs/ARIADNE_WINDOW_PACKET_INGRESS_DISPATCH_BRIDGE_20260527/handoff/ARIADNE_WINDOW_PACKET_INGRESS_DISPATCH_BRIDGE_20260527_handoff.zip
 - indexed_latest_handoff_name: ARIADNE_WINDOW_PACKET_INGRESS_DISPATCH_BRIDGE_20260527_handoff.zip
