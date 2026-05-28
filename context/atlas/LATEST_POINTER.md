@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-28T04:25:26.5090918Z
-stale_after: 2026-05-28T04:55:26.5090918Z
+generated_at: 2026-05-28T04:40:20.8687345Z
+stale_after: 2026-05-28T05:10:20.8687345Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -27,7 +27,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
 - window_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- window_state_age: 18.9 hours old
+- window_state_age: 19.1 hours old
 
 ## Public Atlas Raw URLs
 
@@ -48,7 +48,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - pointer_folder: G:\내 드라이브\Ariadne Atlas\00_POINTERS
 - index_folder: G:\내 드라이브\Ariadne Atlas\06_INDEX
 - handoff_archive_folder: G:\내 드라이브\Ariadne Atlas\02_HANDOFFS
-- gdrive_handoff_zip_count: 191
+- gdrive_handoff_zip_count: 197
 - note: GDrive contains bulk evidence. GitHub contains only small pointers and indexes.
 
 ## Latest Scheduled Publication
@@ -61,11 +61,11 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: WINDOW_ATLAS_V3B_WARNING_REPAIR
-- indexed_latest_final_report: harness/runs/WINDOW_ATLAS_V3B_WARNING_REPAIR/FINAL_REPORT.md
-- indexed_latest_report_status: PASS
-- indexed_latest_handoff_zip: harness/runs/WINDOW_ATLAS_V3B_WARNING_REPAIR/handoff/WINDOW_ATLAS_V3B_WARNING_REPAIR_handoff.zip
-- indexed_latest_handoff_name: WINDOW_ATLAS_V3B_WARNING_REPAIR_handoff.zip
+- indexed_latest_run_id: ARIADNE_C8_REDACTED_SAMPLE_POLICY_DECISION
+- indexed_latest_final_report: NONE
+- indexed_latest_report_status: PASS_STRONG
+- indexed_latest_handoff_zip: harness/runs/CAD_IR_FULL_GEOMETRY_SERIALIZATION_AND_REBUILD_V01_20260527_CODEX/handoff/CAD_IR_FULL_GEOMETRY_SERIALIZATION_AND_REBUILD_V01_20260527_CODEX_handoff.zip
+- indexed_latest_handoff_name: CAD_IR_FULL_GEOMETRY_SERIALIZATION_AND_REBUILD_V01_20260527_CODEX_handoff.zip
 
 ## Recommended Read Order
 
