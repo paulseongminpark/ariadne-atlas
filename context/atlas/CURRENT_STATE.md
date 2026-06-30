@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-06-30T06:11:42.6896493Z
+generated_at: 2026-06-30T06:25:47.1117527Z
 state_freshness: FRESH
-stale_after: 2026-06-30T06:41:42.6896493Z
+stale_after: 2026-06-30T06:55:47.1117527Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-06-30T06:05:03.908584+00:00
+- current_state_generated_at: 2026-06-30T06:20:05.192080+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -66,7 +66,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-06-30T05:55:47.772657+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-06-30T06:11:25.344698+00:00`
 - `interactive_d6a01daa` | status=`UNKNOWN` | latest=`2026-06-30T05:55:12.770067+00:00`
 - `interactive_b57de855` | status=`UNKNOWN` | latest=`2026-06-30T05:45:26.576035+00:00`
 - `interactive_a4d9d44f` | status=`UNKNOWN` | latest=`2026-06-30T05:45:05.810826+00:00`
