@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-05-28T08:55:19.5930688Z
-stale_after: 2026-05-28T09:25:19.5930688Z
+generated_at: 2026-06-30T04:34:28.9871616Z
+stale_after: 2026-06-30T05:04:28.9871616Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -26,8 +26,8 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - remote_mcp_endpoint: https://ariadne-window.paulseongminpark.workers.dev/mcp
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
-- window_state_generated_at: 2026-05-27T09:34:20.553922+00:00
-- window_state_age: 23.4 hours old
+- window_state_generated_at: 2026-06-30T04:32:34.980643+00:00
+- window_state_age: 0.0 hours old
 
 ## Public Atlas Raw URLs
 
@@ -44,11 +44,11 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## GDrive Atlas
 
-- gdrive_atlas_root: G:\내 드라이브\Ariadne Atlas
-- pointer_folder: G:\내 드라이브\Ariadne Atlas\00_POINTERS
-- index_folder: G:\내 드라이브\Ariadne Atlas\06_INDEX
-- handoff_archive_folder: G:\내 드라이브\Ariadne Atlas\02_HANDOFFS
-- gdrive_handoff_zip_count: 206
+- gdrive_atlas_root: C:\Users\PAUL\내 드라이브\Ariadne Atlas
+- pointer_folder: C:\Users\PAUL\내 드라이브\Ariadne Atlas\00_POINTERS
+- index_folder: C:\Users\PAUL\내 드라이브\Ariadne Atlas\06_INDEX
+- handoff_archive_folder: C:\Users\PAUL\내 드라이브\Ariadne Atlas\02_HANDOFFS
+- gdrive_handoff_zip_count: 264
 - note: GDrive contains bulk evidence. GitHub contains only small pointers and indexes.
 
 ## Latest Scheduled Publication
@@ -61,11 +61,11 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: ATLAS_P2_GDRIVE_PUBLISHER
-- indexed_latest_final_report: harness/runs/ATLAS_P2_GDRIVE_PUBLISHER/FINAL_REPORT.md
-- indexed_latest_report_status: PASS_WITH_NOTE
-- indexed_latest_handoff_zip: harness/runs/ARIADNE_C4_DUCKDB_FINALREPORT_PROJECTION_DRIFT/handoff/ARIADNE_C4_DUCKDB_FINALREPORT_PROJECTION_DRIFT_handoff.zip
-- indexed_latest_handoff_name: ARIADNE_C4_DUCKDB_FINALREPORT_PROJECTION_DRIFT_handoff.zip
+- indexed_latest_run_id: interactive_a4d9d44f
+- indexed_latest_final_report: NONE
+- indexed_latest_report_status: PASS_WITH_DEFERRAL
+- indexed_latest_handoff_zip: harness/runs/RUN-003_LAB2_knowledge_pack_20260615.zip
+- indexed_latest_handoff_name: RUN-003_LAB2_knowledge_pack_20260615.zip
 
 ## Recommended Read Order
 
