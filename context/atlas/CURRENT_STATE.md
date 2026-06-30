@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-06-30T05:10:13.4010718Z
+generated_at: 2026-06-30T05:25:21.2167324Z
 state_freshness: FRESH
-stale_after: 2026-06-30T05:40:13.4010718Z
+stale_after: 2026-06-30T05:55:21.2167324Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-06-30T05:05:02.096702+00:00
+- current_state_generated_at: 2026-06-30T05:20:02.409601+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 882
+- run_index_rows_source: 884
 - handoff_index_rows_source: 282
 - report_index_rows_source: 316
 - contract_index_rows_source: 540
@@ -66,16 +66,16 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
+- `interactive_c6ae0a2a` | status=`UNKNOWN` | latest=`2026-06-30T05:19:56.223259+00:00`
+- `interactive_d8be037a` | status=`UNKNOWN` | latest=`2026-06-30T05:19:26.860170+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-06-30T05:10:11.823360+00:00`
 - `interactive_373c13ff` | status=`UNKNOWN` | latest=`2026-06-30T05:01:06.150867+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-06-30T04:55:08.724381+00:00`
 - `interactive_b29043c8` | status=`UNKNOWN` | latest=`2026-06-30T04:46:18.983961+00:00`
 - `interactive_387660c5` | status=`UNKNOWN` | latest=`2026-06-30T04:40:12.132196+00:00`
 - `interactive_a4d9d44f` | status=`UNKNOWN` | latest=`2026-06-30T04:30:19.444217+00:00`
 - `interactive_1902838b` | status=`UNKNOWN` | latest=`2026-06-30T04:29:48.579746+00:00`
 - `interactive_b57de855` | status=`UNKNOWN` | latest=`2026-06-30T04:29:38.953192+00:00`
 - `interactive_99f6f162` | status=`UNKNOWN` | latest=`2026-06-30T04:29:19.027209+00:00`
-- `interactive_cbf70dd4` | status=`UNKNOWN` | latest=`2026-06-30T04:21:12.568532+00:00`
-- `interactive_fc6461cc` | status=`UNKNOWN` | latest=`2026-06-30T04:20:52.937270+00:00`
 
 ## Latest Handoffs
 
