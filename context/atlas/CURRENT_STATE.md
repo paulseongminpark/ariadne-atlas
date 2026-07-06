@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-06T17:25:12.4788078Z
+generated_at: 2026-07-06T17:40:17.2407092Z
 state_freshness: FRESH
-stale_after: 2026-07-06T17:55:12.4788078Z
+stale_after: 2026-07-06T18:10:17.2407092Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-06T17:20:02.192650+00:00
+- current_state_generated_at: 2026-07-06T17:35:02.202310+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -66,7 +66,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T17:10:15.009399+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T17:25:10.690790+00:00`
 - `interactive_0efb1b04` | status=`UNKNOWN` | latest=`2026-07-06T13:09:46.142321+00:00`
 - `interactive_e88f00b9` | status=`UNKNOWN` | latest=`2026-07-06T12:55:56.910194+00:00`
 - `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-06T12:52:22.106864+00:00`
