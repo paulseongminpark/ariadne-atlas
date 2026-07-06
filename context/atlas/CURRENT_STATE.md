@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-06T11:10:17.5396175Z
+generated_at: 2026-07-06T11:25:15.4163133Z
 state_freshness: FRESH
-stale_after: 2026-07-06T11:40:17.5396175Z
+stale_after: 2026-07-06T11:55:15.4163133Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-06T11:05:01.936125+00:00
+- current_state_generated_at: 2026-07-06T11:20:02.014082+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 969
+- run_index_rows_source: 970
 - handoff_index_rows_source: 282
 - report_index_rows_source: 316
 - contract_index_rows_source: 542
@@ -66,7 +66,9 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T10:55:09.241302+00:00`
+- `interactive_037e2ec8` | status=`UNKNOWN` | latest=`2026-07-06T11:20:47.196337+00:00`
+- `interactive_57e89c25` | status=`UNKNOWN` | latest=`2026-07-06T11:20:30.192949+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T11:10:15.405154+00:00`
 - `interactive_d559c9b2` | status=`UNKNOWN` | latest=`2026-07-06T10:11:19.488438+00:00`
 - `interactive_43ec5c1a` | status=`UNKNOWN` | latest=`2026-07-06T09:39:35.132331+00:00`
 - `interactive_5754a105` | status=`UNKNOWN` | latest=`2026-07-06T09:02:04.209433+00:00`
@@ -74,8 +76,6 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - `interactive_f478b430` | status=`UNKNOWN` | latest=`2026-07-06T08:49:42.219630+00:00`
 - `interactive_1d246f49` | status=`UNKNOWN` | latest=`2026-07-06T08:43:03.882252+00:00`
 - `interactive_795c2c64` | status=`UNKNOWN` | latest=`2026-07-06T08:39:38.388684+00:00`
-- `interactive_15d8655c` | status=`UNKNOWN` | latest=`2026-07-06T08:39:36.544739+00:00`
-- `interactive_583ea2ee` | status=`UNKNOWN` | latest=`2026-07-06T08:39:36.146819+00:00`
 
 ## Latest Handoffs
 
