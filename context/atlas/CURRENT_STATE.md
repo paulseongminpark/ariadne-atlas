@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-06T11:40:56.3847956Z
+generated_at: 2026-07-06T11:55:18.4301466Z
 state_freshness: FRESH
-stale_after: 2026-07-06T12:10:56.3847956Z
+stale_after: 2026-07-06T12:25:18.4301466Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-06T11:35:02.019344+00:00
+- current_state_generated_at: 2026-07-06T11:50:02.122453+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 973
+- run_index_rows_source: 978
 - handoff_index_rows_source: 283
 - report_index_rows_source: 316
 - contract_index_rows_source: 542
@@ -66,20 +66,20 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706` | status=`UNKNOWN` | latest=`2026-07-06T11:35:06.992586+00:00`
+- `interactive_c6b17e78` | status=`UNKNOWN` | latest=`2026-07-06T11:46:54.261557+00:00`
+- `interactive_0fa1c363` | status=`UNKNOWN` | latest=`2026-07-06T11:45:24.253865+00:00`
+- `interactive_8f40c7b6` | status=`UNKNOWN` | latest=`2026-07-06T11:45:24.215512+00:00`
+- `interactive_34138d25` | status=`UNKNOWN` | latest=`2026-07-06T11:45:24.189391+00:00`
+- `interactive_45ad4ce8` | status=`UNKNOWN` | latest=`2026-07-06T11:45:23.900899+00:00`
+- `interactive_c3d5e28d` | status=`UNKNOWN` | latest=`2026-07-06T11:45:23.561253+00:00`
+- `CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706` | status=`UNKNOWN` | latest=`2026-07-06T11:43:14.217304+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T11:40:53.371341+00:00`
 - `interactive_a4eec281` | status=`UNKNOWN` | latest=`2026-07-06T11:28:49.229429+00:00`
 - `interactive_4a82beec` | status=`UNKNOWN` | latest=`2026-07-06T11:26:43.718009+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T11:25:13.551748+00:00`
-- `interactive_037e2ec8` | status=`UNKNOWN` | latest=`2026-07-06T11:20:47.196337+00:00`
-- `interactive_57e89c25` | status=`UNKNOWN` | latest=`2026-07-06T11:20:30.192949+00:00`
-- `interactive_d559c9b2` | status=`UNKNOWN` | latest=`2026-07-06T10:11:19.488438+00:00`
-- `interactive_43ec5c1a` | status=`UNKNOWN` | latest=`2026-07-06T09:39:35.132331+00:00`
-- `interactive_5754a105` | status=`UNKNOWN` | latest=`2026-07-06T09:02:04.209433+00:00`
-- `interactive_93592ad7` | status=`UNKNOWN` | latest=`2026-07-06T08:51:06.683679+00:00`
 
 ## Latest Handoffs
 
-- `CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706_handoff.zip` | run=`CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706` | latest=`2026-07-06T11:35:06.992586+00:00`
+- `CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706_handoff.zip` | run=`CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706` | latest=`2026-07-06T11:43:14.217304+00:00`
 - `RUN-003_LAB2_knowledge_pack_20260615.zip` | run=`RUN-003_LAB2_knowledge_pack_20260615.zip` | latest=`2026-06-15T01:20:56.445839+00:00`
 - `ARIADNE_AGENTIC_MACHINE_COUNTER_AUDIT_CODEX_20260605_handoff.zip` | run=`ARIADNE_AGENTIC_MACHINE_COUNTER_AUDIT_CODEX_20260605` | latest=`2026-06-05T09:38:14.997110+00:00`
 - `ARIADNE_AGENTIC_MACHINE_DEEP_AUDIT_CODEX_20260604_handoff.zip` | run=`ARIADNE_AGENTIC_MACHINE_DEEP_AUDIT_CODEX_20260604` | latest=`2026-06-04T08:53:12.086585+00:00`
