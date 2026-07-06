@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-06T17:40:17.2407092Z
+generated_at: 2026-07-06T17:55:12.6271426Z
 state_freshness: FRESH
-stale_after: 2026-07-06T18:10:17.2407092Z
+stale_after: 2026-07-06T18:25:12.6271426Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-06T17:35:02.202310+00:00
+- current_state_generated_at: 2026-07-06T17:50:02.559041+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -66,10 +66,10 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T17:25:10.690790+00:00`
+- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-06T17:41:49.494383+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-06T17:40:15.471076+00:00`
 - `interactive_0efb1b04` | status=`UNKNOWN` | latest=`2026-07-06T13:09:46.142321+00:00`
 - `interactive_e88f00b9` | status=`UNKNOWN` | latest=`2026-07-06T12:55:56.910194+00:00`
-- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-06T12:52:22.106864+00:00`
 - `interactive_7a28eaf6` | status=`UNKNOWN` | latest=`2026-07-06T12:39:31.651075+00:00`
 - `interactive_4a82beec` | status=`UNKNOWN` | latest=`2026-07-06T12:39:16.496669+00:00`
 - `interactive_0569d21e` | status=`UNKNOWN` | latest=`2026-07-06T12:35:27.925787+00:00`
@@ -79,7 +79,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Handoffs
 
-- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip` | run=`CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | latest=`2026-07-06T12:52:22.106864+00:00`
+- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip` | run=`CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | latest=`2026-07-06T17:41:49.494383+00:00`
 - `OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706_handoff.zip` | run=`OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706` | latest=`2026-07-06T12:23:55.511028+00:00`
 - `CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706_handoff.zip` | run=`CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706` | latest=`2026-07-06T11:43:14.217304+00:00`
 - `RUN-003_LAB2_knowledge_pack_20260615.zip` | run=`RUN-003_LAB2_knowledge_pack_20260615.zip` | latest=`2026-06-15T01:20:56.445839+00:00`
