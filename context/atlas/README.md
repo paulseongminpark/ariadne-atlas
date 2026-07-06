@@ -1,6 +1,6 @@
 # Ariadne Atlas Public Pointer Layer
 
-generated_at: 2026-07-06T21:40:16.2430186Z
+generated_at: 2026-07-06T21:55:11.3514017Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 Start with LATEST_POINTER.md, then read CURRENT_STATE.md, WINDOW_ENDPOINT.md, and ATLAS_STATUS.md.
