@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-07-06T12:25:20.3548982Z
-stale_after: 2026-07-06T12:55:20.3548982Z
+generated_at: 2026-07-06T12:40:21.3207039Z
+stale_after: 2026-07-06T13:10:21.3207039Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -26,7 +26,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - remote_mcp_endpoint: https://ariadne-window.paulseongminpark.workers.dev/mcp
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
-- window_state_generated_at: 2026-07-06T12:20:02.229756+00:00
+- window_state_generated_at: 2026-07-06T12:35:02.298225+00:00
 - window_state_age: 0.1 hours old
 
 ## Public Atlas Raw URLs
@@ -61,11 +61,11 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706
+- indexed_latest_run_id: CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706
 - indexed_latest_final_report: NONE
 - indexed_latest_report_status: PASS_WITH_DEFERRAL
-- indexed_latest_handoff_zip: harness/runs/OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706/handoff/OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706_handoff.zip
-- indexed_latest_handoff_name: OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706_handoff.zip
+- indexed_latest_handoff_zip: harness/runs/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706/handoff/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip
+- indexed_latest_handoff_name: CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip
 
 ## Recommended Read Order
 
