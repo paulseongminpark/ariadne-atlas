@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-07-07T01:55:16.5330722Z
-stale_after: 2026-07-07T02:25:16.5330722Z
+generated_at: 2026-07-07T02:10:26.7135832Z
+stale_after: 2026-07-07T02:40:26.7135832Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -26,7 +26,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - remote_mcp_endpoint: https://ariadne-window.paulseongminpark.workers.dev/mcp
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
-- window_state_generated_at: 2026-07-07T01:50:01.636249+00:00
+- window_state_generated_at: 2026-07-07T02:05:01.948437+00:00
 - window_state_age: 0.1 hours old
 
 ## Public Atlas Raw URLs
@@ -61,7 +61,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: interactive_9daaf62f
+- indexed_latest_run_id: interactive_4d3e2818
 - indexed_latest_final_report: NONE
 - indexed_latest_report_status: UNKNOWN
 - indexed_latest_handoff_zip: harness/runs/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706/handoff/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip
