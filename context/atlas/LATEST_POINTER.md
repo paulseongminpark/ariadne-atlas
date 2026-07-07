@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-07-07T13:25:30.5900870Z
-stale_after: 2026-07-07T13:55:30.5900870Z
+generated_at: 2026-07-07T13:40:19.5086415Z
+stale_after: 2026-07-07T14:10:19.5086415Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -26,7 +26,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - remote_mcp_endpoint: https://ariadne-window.paulseongminpark.workers.dev/mcp
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
-- window_state_generated_at: 2026-07-07T13:20:02.326398+00:00
+- window_state_generated_at: 2026-07-07T13:35:02.281505+00:00
 - window_state_age: 0.1 hours old
 
 ## Public Atlas Raw URLs
