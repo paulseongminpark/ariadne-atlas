@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-07T09:25:52.1348656Z
+generated_at: 2026-07-07T09:40:21.4597944Z
 state_freshness: FRESH
-stale_after: 2026-07-07T09:55:52.1348656Z
+stale_after: 2026-07-07T10:10:21.4597944Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-07T09:20:20.242747+00:00
+- current_state_generated_at: 2026-07-07T09:35:02.043165+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 1504
+- run_index_rows_source: 1505
 - handoff_index_rows_source: 287
 - report_index_rows_source: 319
 - contract_index_rows_source: 542
@@ -66,7 +66,8 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T09:10:22.663402+00:00`
+- `interactive_d031797e` | status=`UNKNOWN` | latest=`2026-07-07T09:26:10.714904+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T09:25:45.948207+00:00`
 - `interactive_f2fa5372` | status=`UNKNOWN` | latest=`2026-07-07T08:29:30.945536+00:00`
 - `interactive_0c45726f` | status=`UNKNOWN` | latest=`2026-07-07T08:29:02.000870+00:00`
 - `interactive_e5452c3c` | status=`UNKNOWN` | latest=`2026-07-07T08:29:01.117391+00:00`
@@ -75,7 +76,6 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - `interactive_8372c2fa` | status=`UNKNOWN` | latest=`2026-07-07T08:25:51.511339+00:00`
 - `interactive_6da0bb1a` | status=`UNKNOWN` | latest=`2026-07-07T08:25:01.204748+00:00`
 - `CAD_RHINO_IR_ALL_FAMILY_EVIDENCE_INVESTIGATION_20260707` | status=`UNKNOWN` | latest=`2026-07-07T08:17:27.941261+00:00`
-- `interactive_0af71e62` | status=`UNKNOWN` | latest=`2026-07-07T08:14:08.867730+00:00`
 
 ## Latest Handoffs
 
