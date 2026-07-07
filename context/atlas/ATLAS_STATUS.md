@@ -1,7 +1,7 @@
 # Ariadne Atlas Status
 
-generated_at: 2026-07-07T00:25:12.9482506Z
-stale_after: 2026-07-07T00:55:12.9482506Z
+generated_at: 2026-07-07T00:40:25.1332247Z
+stale_after: 2026-07-07T01:10:25.1332247Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 status: SCHEDULED_PUBLISH_READY
 
