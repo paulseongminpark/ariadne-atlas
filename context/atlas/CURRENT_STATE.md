@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-07T02:25:18.6681786Z
+generated_at: 2026-07-07T02:40:26.4524892Z
 state_freshness: FRESH
-stale_after: 2026-07-07T02:55:18.6681786Z
+stale_after: 2026-07-07T03:10:26.4524892Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-07T02:20:02.142511+00:00
+- current_state_generated_at: 2026-07-07T02:35:01.478282+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 1101
+- run_index_rows_source: 1103
 - handoff_index_rows_source: 285
 - report_index_rows_source: 317
 - contract_index_rows_source: 542
@@ -66,6 +66,9 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
+- `interactive_e886f278` | status=`UNKNOWN` | latest=`2026-07-07T02:37:04.275460+00:00`
+- `interactive_d887fc09` | status=`UNKNOWN` | latest=`2026-07-07T02:32:49.442487+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T02:25:16.136043+00:00`
 - `interactive_5661454f` | status=`UNKNOWN` | latest=`2026-07-07T02:23:05.867985+00:00`
 - `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-07T02:22:20.805883+00:00`
 - `interactive_dead3ea0` | status=`UNKNOWN` | latest=`2026-07-07T02:21:55.561278+00:00`
@@ -73,9 +76,6 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - `interactive_af23bebe` | status=`UNKNOWN` | latest=`2026-07-07T02:19:49.603501+00:00`
 - `interactive_304c0280` | status=`UNKNOWN` | latest=`2026-07-07T02:19:47.457112+00:00`
 - `interactive_06c7d143` | status=`UNKNOWN` | latest=`2026-07-07T02:19:25.310527+00:00`
-- `interactive_114b8386` | status=`UNKNOWN` | latest=`2026-07-07T02:19:10.103196+00:00`
-- `interactive_39a34502` | status=`UNKNOWN` | latest=`2026-07-07T02:18:49.128833+00:00`
-- `interactive_d73ca4f1` | status=`UNKNOWN` | latest=`2026-07-07T02:18:34.149292+00:00`
 
 ## Latest Handoffs
 
