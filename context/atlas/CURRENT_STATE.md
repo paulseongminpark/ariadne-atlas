@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-07T02:40:26.4524892Z
+generated_at: 2026-07-07T02:55:18.1095488Z
 state_freshness: FRESH
-stale_after: 2026-07-07T03:10:26.4524892Z
+stale_after: 2026-07-07T03:25:18.1095488Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-07T02:35:01.478282+00:00
+- current_state_generated_at: 2026-07-07T02:50:01.464329+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -66,11 +66,11 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
+- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-07T02:50:55.962982+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T02:40:22.584526+00:00`
 - `interactive_e886f278` | status=`UNKNOWN` | latest=`2026-07-07T02:37:04.275460+00:00`
 - `interactive_d887fc09` | status=`UNKNOWN` | latest=`2026-07-07T02:32:49.442487+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T02:25:16.136043+00:00`
 - `interactive_5661454f` | status=`UNKNOWN` | latest=`2026-07-07T02:23:05.867985+00:00`
-- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-07T02:22:20.805883+00:00`
 - `interactive_dead3ea0` | status=`UNKNOWN` | latest=`2026-07-07T02:21:55.561278+00:00`
 - `interactive_018ddf06` | status=`UNKNOWN` | latest=`2026-07-07T02:21:22.408491+00:00`
 - `interactive_af23bebe` | status=`UNKNOWN` | latest=`2026-07-07T02:19:49.603501+00:00`
