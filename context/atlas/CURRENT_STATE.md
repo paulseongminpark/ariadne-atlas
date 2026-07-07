@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-07T02:55:18.1095488Z
+generated_at: 2026-07-07T03:10:29.6126976Z
 state_freshness: FRESH
-stale_after: 2026-07-07T03:25:18.1095488Z
+stale_after: 2026-07-07T03:40:29.6126976Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-07T02:50:01.464329+00:00
+- current_state_generated_at: 2026-07-07T03:05:01.464013+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 1103
+- run_index_rows_source: 1114
 - handoff_index_rows_source: 285
 - report_index_rows_source: 317
 - contract_index_rows_source: 542
@@ -66,20 +66,20 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-07T02:50:55.962982+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T02:40:22.584526+00:00`
-- `interactive_e886f278` | status=`UNKNOWN` | latest=`2026-07-07T02:37:04.275460+00:00`
-- `interactive_d887fc09` | status=`UNKNOWN` | latest=`2026-07-07T02:32:49.442487+00:00`
-- `interactive_5661454f` | status=`UNKNOWN` | latest=`2026-07-07T02:23:05.867985+00:00`
-- `interactive_dead3ea0` | status=`UNKNOWN` | latest=`2026-07-07T02:21:55.561278+00:00`
-- `interactive_018ddf06` | status=`UNKNOWN` | latest=`2026-07-07T02:21:22.408491+00:00`
-- `interactive_af23bebe` | status=`UNKNOWN` | latest=`2026-07-07T02:19:49.603501+00:00`
-- `interactive_304c0280` | status=`UNKNOWN` | latest=`2026-07-07T02:19:47.457112+00:00`
-- `interactive_06c7d143` | status=`UNKNOWN` | latest=`2026-07-07T02:19:25.310527+00:00`
+- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-07T03:07:49.377427+00:00`
+- `interactive_0f7a1010` | status=`UNKNOWN` | latest=`2026-07-07T03:06:18.392725+00:00`
+- `interactive_6ac06aec` | status=`UNKNOWN` | latest=`2026-07-07T03:06:16.869160+00:00`
+- `interactive_e576af4f` | status=`UNKNOWN` | latest=`2026-07-07T03:06:11.559572+00:00`
+- `interactive_6fd6d2e3` | status=`UNKNOWN` | latest=`2026-07-07T03:06:01.640370+00:00`
+- `interactive_bb80c506` | status=`UNKNOWN` | latest=`2026-07-07T03:04:58.546005+00:00`
+- `interactive_36967cd7` | status=`UNKNOWN` | latest=`2026-07-07T03:04:32.743454+00:00`
+- `interactive_1e40a4bb` | status=`UNKNOWN` | latest=`2026-07-07T03:03:35.880354+00:00`
+- `interactive_5cf6f2ae` | status=`UNKNOWN` | latest=`2026-07-07T03:03:11.404544+00:00`
+- `interactive_c73dc4f1` | status=`UNKNOWN` | latest=`2026-07-07T03:02:45.273388+00:00`
 
 ## Latest Handoffs
 
-- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip` | run=`CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | latest=`2026-07-07T02:22:20.805883+00:00`
+- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip` | run=`CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | latest=`2026-07-07T03:07:04.355634+00:00`
 - `OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706_handoff.zip` | run=`OCTAVIUS_OCTOLOOP_LOCAL_DISCOVERY_20260706` | latest=`2026-07-06T12:23:55.511028+00:00`
 - `CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706_handoff.zip` | run=`CAD_RHINO_IR_PATENT_EVIDENCE_SCAN_20260706` | latest=`2026-07-06T11:43:14.217304+00:00`
 - `RUN-003_LAB2_knowledge_pack_20260615.zip` | run=`RUN-003_LAB2_knowledge_pack_20260615.zip` | latest=`2026-06-15T01:20:56.445839+00:00`
@@ -92,7 +92,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Reports
 
-- `harness/runs/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706/FINAL_REPORT.md` | run=`CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-07T02:16:21.447315+00:00`
+- `harness/runs/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706/FINAL_REPORT.md` | run=`CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-07T03:05:22.835318+00:00`
 - `harness/runs/ARIADNE_AGENTIC_MACHINE_COUNTER_AUDIT_CODEX_20260605/FINAL_REPORT.md` | run=`ARIADNE_AGENTIC_MACHINE_COUNTER_AUDIT_CODEX_20260605` | status=`PASS_WITH_DEFERRAL` | latest=`2026-06-05T09:36:44.113915+00:00`
 - `harness/runs/RUN-003-ir-projection-sandbox/FINAL_REPORT.md` | run=`RUN-003-ir-projection-sandbox` | status=`UNKNOWN` | latest=`2026-06-04T09:02:17.990154+00:00`
 - `harness/runs/ARIADNE_AGENTIC_MACHINE_DEEP_AUDIT_CODEX_20260604/FINAL_REPORT.md` | run=`ARIADNE_AGENTIC_MACHINE_DEEP_AUDIT_CODEX_20260604` | status=`UNKNOWN` | latest=`2026-06-04T08:52:49.411298+00:00`
