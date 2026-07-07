@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-07T08:11:23.9028584Z
+generated_at: 2026-07-07T08:25:29.2973241Z
 state_freshness: FRESH
-stale_after: 2026-07-07T08:41:23.9028584Z
+stale_after: 2026-07-07T08:55:29.2973241Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-07T08:05:16.331495+00:00
+- current_state_generated_at: 2026-07-07T08:20:04.104178+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 1497
+- run_index_rows_source: 1501
 - handoff_index_rows_source: 287
 - report_index_rows_source: 319
 - contract_index_rows_source: 542
@@ -66,16 +66,16 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `CAD_RHINO_IR_ALL_FAMILY_EVIDENCE_INVESTIGATION_20260707` | status=`UNKNOWN` | latest=`2026-07-07T08:10:35.835824+00:00`
+- `interactive_6da0bb1a` | status=`UNKNOWN` | latest=`2026-07-07T08:25:01.204748+00:00`
+- `CAD_RHINO_IR_ALL_FAMILY_EVIDENCE_INVESTIGATION_20260707` | status=`UNKNOWN` | latest=`2026-07-07T08:17:27.941261+00:00`
+- `interactive_0af71e62` | status=`UNKNOWN` | latest=`2026-07-07T08:14:08.867730+00:00`
+- `interactive_4ecd2871` | status=`UNKNOWN` | latest=`2026-07-07T08:12:55.280956+00:00`
+- `interactive_e5452c3c` | status=`UNKNOWN` | latest=`2026-07-07T08:12:53.762352+00:00`
+- `interactive_a2ddb787` | status=`UNKNOWN` | latest=`2026-07-07T08:12:45.284206+00:00`
+- `interactive_8372c2fa` | status=`UNKNOWN` | latest=`2026-07-07T08:12:39.572239+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T08:10:58.139677+00:00`
 - `interactive_3359981d` | status=`UNKNOWN` | latest=`2026-07-07T08:07:12.361920+00:00`
 - `interactive_7759e610` | status=`UNKNOWN` | latest=`2026-07-07T08:02:51.448646+00:00`
-- `interactive_6da0bb1a` | status=`UNKNOWN` | latest=`2026-07-07T08:02:50.459032+00:00`
-- `interactive_7ac8f7a4` | status=`UNKNOWN` | latest=`2026-07-07T08:01:49.939670+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T08:01:43.250845+00:00`
-- `interactive_55f528ac` | status=`UNKNOWN` | latest=`2026-07-07T08:00:52.791780+00:00`
-- `interactive_3e8e7267` | status=`UNKNOWN` | latest=`2026-07-07T08:00:22.156652+00:00`
-- `interactive_83b8dd48` | status=`UNKNOWN` | latest=`2026-07-07T08:00:18.143375+00:00`
-- `interactive_fc217d45` | status=`UNKNOWN` | latest=`2026-07-07T08:00:18.067704+00:00`
 
 ## Latest Handoffs
 
