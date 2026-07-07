@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-07T00:40:25.1332247Z
+generated_at: 2026-07-07T00:55:20.8921610Z
 state_freshness: FRESH
-stale_after: 2026-07-07T01:10:25.1332247Z
+stale_after: 2026-07-07T01:25:20.8921610Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-07T00:35:01.365295+00:00
+- current_state_generated_at: 2026-07-07T00:50:01.366397+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 989
+- run_index_rows_source: 991
 - handoff_index_rows_source: 285
 - report_index_rows_source: 316
 - contract_index_rows_source: 542
@@ -66,16 +66,16 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
+- `interactive_baef9a2f` | status=`UNKNOWN` | latest=`2026-07-07T00:55:06.871055+00:00`
+- `interactive_bbb3e4dc` | status=`UNKNOWN` | latest=`2026-07-07T00:54:37.937471+00:00`
+- `interactive_b87e06be` | status=`UNKNOWN` | latest=`2026-07-07T00:54:37.526469+00:00`
+- `interactive_545e1c3e` | status=`UNKNOWN` | latest=`2026-07-07T00:54:03.196071+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T00:40:22.679834+00:00`
 - `interactive_06c7d143` | status=`UNKNOWN` | latest=`2026-07-07T00:39:01.915530+00:00`
 - `interactive_781a900e` | status=`UNKNOWN` | latest=`2026-07-07T00:37:51.657338+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-07T00:25:10.890180+00:00`
 - `interactive_61f22044` | status=`UNKNOWN` | latest=`2026-07-06T20:07:01.040051+00:00`
 - `ariadne_codex_audit_team_liveness` | status=`UNKNOWN` | latest=`2026-07-06T19:02:00.310454+00:00`
 - `interactive_2ff89753` | status=`UNKNOWN` | latest=`2026-07-06T18:10:40.278825+00:00`
-- `CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706` | status=`UNKNOWN` | latest=`2026-07-06T17:41:49.494383+00:00`
-- `interactive_0efb1b04` | status=`UNKNOWN` | latest=`2026-07-06T13:09:46.142321+00:00`
-- `interactive_e88f00b9` | status=`UNKNOWN` | latest=`2026-07-06T12:55:56.910194+00:00`
-- `interactive_7a28eaf6` | status=`UNKNOWN` | latest=`2026-07-06T12:39:31.651075+00:00`
 
 ## Latest Handoffs
 
