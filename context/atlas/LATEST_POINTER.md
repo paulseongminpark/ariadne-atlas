@@ -1,7 +1,7 @@
 # Ariadne Atlas Latest Pointer
 
-generated_at: 2026-07-07T05:40:23.3540605Z
-stale_after: 2026-07-07T06:10:23.3540605Z
+generated_at: 2026-07-07T05:55:15.0323222Z
+stale_after: 2026-07-07T06:25:15.0323222Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 freshness_status: FRESH
 
@@ -26,7 +26,7 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 - remote_mcp_endpoint: https://ariadne-window.paulseongminpark.workers.dev/mcp
 - mcp_protocol_versions: 2025-03-26, 2025-06-18
 - window_health: ok
-- window_state_generated_at: 2026-07-07T05:35:02.111127+00:00
+- window_state_generated_at: 2026-07-07T05:50:01.875112+00:00
 - window_state_age: 0.1 hours old
 
 ## Public Atlas Raw URLs
@@ -61,11 +61,11 @@ Ariadne Window and Ariadne private runtime/control-plane records remain the sour
 
 ## Latest Indexed Evidence
 
-- indexed_latest_run_id: interactive_c1918de6
+- indexed_latest_run_id: interactive_9c3a6ee8
 - indexed_latest_final_report: NONE
 - indexed_latest_report_status: UNKNOWN
-- indexed_latest_handoff_zip: harness/runs/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706/handoff/CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip
-- indexed_latest_handoff_name: CAD_RHINO_IR_ONTOLOGY_FULL_TERRAIN_INDEX_20260706_handoff.zip
+- indexed_latest_handoff_zip: harness/runs/CAD_RHINO_IR_PATENT_FAMILY_DOSSIER_20260707/handoff/CAD_RHINO_IR_PATENT_FAMILY_DOSSIER_20260707_handoff.zip
+- indexed_latest_handoff_name: CAD_RHINO_IR_PATENT_FAMILY_DOSSIER_20260707_handoff.zip
 
 ## Recommended Read Order
 
