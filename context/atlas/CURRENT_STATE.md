@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-08T01:10:33.9375759Z
+generated_at: 2026-07-08T01:25:29.7240209Z
 state_freshness: FRESH
-stale_after: 2026-07-08T01:40:33.9375759Z
+stale_after: 2026-07-08T01:55:29.7240209Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-08T01:05:02.685939+00:00
+- current_state_generated_at: 2026-07-08T01:20:01.874765+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -41,7 +41,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Atlas Local Index Status
 
-- run_index_rows_source: 1558
+- run_index_rows_source: 1563
 - handoff_index_rows_source: 287
 - report_index_rows_source: 319
 - contract_index_rows_source: 542
@@ -66,16 +66,16 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `interactive_638c4261` | status=`UNKNOWN` | latest=`2026-07-08T01:10:04.497184+00:00`
-- `interactive_26a737df` | status=`UNKNOWN` | latest=`2026-07-08T01:10:04.459352+00:00`
-- `interactive_6a8ceaed` | status=`UNKNOWN` | latest=`2026-07-08T01:09:59.287205+00:00`
-- `interactive_4efea91d` | status=`UNKNOWN` | latest=`2026-07-08T01:09:59.281207+00:00`
-- `interactive_954f0e5f` | status=`UNKNOWN` | latest=`2026-07-08T01:09:56.865558+00:00`
-- `interactive_3dbbd142` | status=`UNKNOWN` | latest=`2026-07-08T01:09:32.632348+00:00`
-- `interactive_fe94631f` | status=`UNKNOWN` | latest=`2026-07-08T01:09:23.872217+00:00`
-- `interactive_98013984` | status=`UNKNOWN` | latest=`2026-07-08T01:09:21.619037+00:00`
-- `interactive_259fcb06` | status=`UNKNOWN` | latest=`2026-07-08T01:08:59.789494+00:00`
-- `interactive_4b06a7c2` | status=`UNKNOWN` | latest=`2026-07-08T01:08:54.984711+00:00`
+- `interactive_cd7618af` | status=`UNKNOWN` | latest=`2026-07-08T01:13:58.718751+00:00`
+- `interactive_42af46d4` | status=`UNKNOWN` | latest=`2026-07-08T01:13:40.085100+00:00`
+- `interactive_7be7496e` | status=`UNKNOWN` | latest=`2026-07-08T01:13:12.963450+00:00`
+- `interactive_dc18bb2b` | status=`UNKNOWN` | latest=`2026-07-08T01:13:06.229739+00:00`
+- `interactive_4cd0f972` | status=`UNKNOWN` | latest=`2026-07-08T01:12:46.720867+00:00`
+- `interactive_a4463996` | status=`UNKNOWN` | latest=`2026-07-08T01:12:21.195867+00:00`
+- `interactive_bb22ce5f` | status=`UNKNOWN` | latest=`2026-07-08T01:11:22.494836+00:00`
+- `interactive_26a737df` | status=`UNKNOWN` | latest=`2026-07-08T01:11:09.256810+00:00`
+- `interactive_638c4261` | status=`UNKNOWN` | latest=`2026-07-08T01:11:08.414464+00:00`
+- `interactive_954f0e5f` | status=`UNKNOWN` | latest=`2026-07-08T01:10:52.130504+00:00`
 
 ## Latest Handoffs
 
