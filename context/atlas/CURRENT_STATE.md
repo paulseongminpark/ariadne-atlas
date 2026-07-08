@@ -1,8 +1,8 @@
 # Ariadne Atlas Current State
 
-generated_at: 2026-07-08T03:25:35.0906564Z
+generated_at: 2026-07-08T03:40:26.5297854Z
 state_freshness: FRESH
-stale_after: 2026-07-08T03:55:35.0906564Z
+stale_after: 2026-07-08T04:10:26.5297854Z
 atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Role Split
@@ -20,7 +20,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - service_status: ok
 - health_status: ok
 - service: ariadne-window-workers-dev
-- current_state_generated_at: 2026-07-08T03:20:04.722832+00:00
+- current_state_generated_at: 2026-07-08T03:35:02.441069+00:00
 - current_state_age: 0.1 hours old
 
 ## MCP Status
@@ -42,7 +42,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 ## Atlas Local Index Status
 
 - run_index_rows_source: 348
-- handoff_index_rows_source: 288
+- handoff_index_rows_source: 289
 - report_index_rows_source: 320
 - contract_index_rows_source: 542
 - window_index_rows_source: 26
@@ -66,9 +66,9 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Runs
 
-- `CAD_IR_T1_AND_FD_D2_INCLUSION_PROOF_20260707` | status=`UNKNOWN` | latest=`2026-07-08T03:25:03.613498+00:00`
-- `.remember` | status=`UNKNOWN` | latest=`2026-07-08T03:12:50.037404+00:00`
-- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-08T03:10:35.523549+00:00`
+- `.remember` | status=`UNKNOWN` | latest=`2026-07-08T03:39:24.910629+00:00`
+- `CAD_IR_T1_AND_FD_D2_INCLUSION_PROOF_20260707` | status=`UNKNOWN` | latest=`2026-07-08T03:27:40.975755+00:00`
+- `ATLAS_P2_GDRIVE_PUBLISHER` | status=`PASS` | latest=`2026-07-08T03:25:28.466109+00:00`
 - `_archive` | status=`UNKNOWN` | latest=`2026-07-08T03:05:33.954737+00:00`
 - `ariadne_codex_audit_team_liveness` | status=`UNKNOWN` | latest=`2026-07-07T19:02:21.988124+00:00`
 - `CAD_RHINO_IR_ALL_FAMILY_EVIDENCE_INVESTIGATION_20260707` | status=`UNKNOWN` | latest=`2026-07-07T08:17:27.941261+00:00`
@@ -79,6 +79,7 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 
 ## Latest Handoffs
 
+- `CAD_IR_T1_AND_FD_D2_INCLUSION_PROOF_20260707_handoff.zip` | run=`CAD_IR_T1_AND_FD_D2_INCLUSION_PROOF_20260707` | latest=`2026-07-08T03:27:40.975755+00:00`
 - `interactive_pre20260708.zip` | run=`_archive` | latest=`2026-07-08T03:05:33.954737+00:00`
 - `CAD_RHINO_IR_ALL_FAMILY_EVIDENCE_INVESTIGATION_20260707_handoff.zip` | run=`CAD_RHINO_IR_ALL_FAMILY_EVIDENCE_INVESTIGATION_20260707` | latest=`2026-07-07T08:10:35.828705+00:00`
 - `CAD_RHINO_IR_PATENT_FAMILY_DOSSIER_20260707_handoff.zip` | run=`CAD_RHINO_IR_PATENT_FAMILY_DOSSIER_20260707` | latest=`2026-07-07T05:53:04.637627+00:00`
@@ -88,7 +89,6 @@ atlas_version: ATLAS_P4_SCHEDULED_PUBLISH
 - `RUN-003_LAB2_knowledge_pack_20260615.zip` | run=`RUN-003_LAB2_knowledge_pack_20260615.zip` | latest=`2026-06-15T01:20:56.445839+00:00`
 - `ARIADNE_AGENTIC_MACHINE_COUNTER_AUDIT_CODEX_20260605_handoff.zip` | run=`ARIADNE_AGENTIC_MACHINE_COUNTER_AUDIT_CODEX_20260605` | latest=`2026-06-05T09:38:14.997110+00:00`
 - `ARIADNE_AGENTIC_MACHINE_DEEP_AUDIT_CODEX_20260604_handoff.zip` | run=`ARIADNE_AGENTIC_MACHINE_DEEP_AUDIT_CODEX_20260604` | latest=`2026-06-04T08:53:12.086585+00:00`
-- `CAD_TRANSFORMATION_MVP_PHASE_0_5_REGION_ISOLATION_MVP001_20260604_handoff.zip` | run=`CAD_TRANSFORMATION_MVP_PHASE_0_5_REGION_ISOLATION_MVP001_20260604` | latest=`2026-06-04T08:42:51.809657+00:00`
 
 ## Latest Reports
 
